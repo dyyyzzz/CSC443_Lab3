@@ -18,4 +18,5 @@
     $summ = add($num1, $num2)
     echo "$num1 + $num2 = " . $summ;
     ?>
+    </body>
 </html>
