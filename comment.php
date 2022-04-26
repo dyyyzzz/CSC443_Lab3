@@ -11,7 +11,7 @@
     // This is a comment
     // echo "X equals $x";
     global $x;
-    $x += 10; // Increment $x by 10
+    $x++; // Increment $x by 10
     echo $x;
     /* This is a section 
     of multiline comments
