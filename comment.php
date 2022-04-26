@@ -15,7 +15,7 @@
     echo $x;
     /* This is a section 
     of multiline comments
-    thatt will not be
+    that will not be
     interpreted */
     ?>
 </body>
