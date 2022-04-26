@@ -10,9 +10,10 @@
     <?php
     // This is a comment
     // echo "X equals $x";
-    global $x;
-    $x = 10; // Increment $x by 10
-    echo $x;
+    for( $x=10; $x<=50; ){
+    echo $x."<br>";
+    $x= $x + 10;
+    }
     /* This is a section 
     of multiline comments
     that will not be
